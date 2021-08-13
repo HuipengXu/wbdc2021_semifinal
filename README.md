@@ -99,3 +99,8 @@
 1. 路径：src/nn/test.py
 2. 行数：62
 3. 内容：logits = model(\*\*batch\_cuda)\[3\]
+
+
+
+
+![](./src/assets/lb.png)
