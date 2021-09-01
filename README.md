@@ -104,3 +104,13 @@
 
 
 ![](./src/assets/lb.png)
+
+
+## 7. 开源方案汇总
+1. rank 51 https://github.com/QunBB/WBDC2021
+2. rank 70 https://github.com/meurice996/WBDC2021_Solution
+3. rank 13 https://github.com/shexuan/wbdc2021_rank13
+4. rank 14 https://github.com/HuipengXu/wbdc2021_semifinal
+5. rank 43 https://github.com/ji1ai1/202105-WEIXIN
+6. rank 23 https://github.com/librauee/WBDC
+7. rank 15 https://github.com/juzstu/WBDC2021_Tree_Solution
